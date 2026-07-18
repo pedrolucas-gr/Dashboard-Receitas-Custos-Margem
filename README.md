@@ -1,4 +1,4 @@
-# 📊 Dashboard de Receita, Custos e Margem
+# 📊 Dashboard de Receitas, Custos e Margem
 
 # 📖 Sobre o Projeto
 
